@@ -1,10 +1,11 @@
-This is project java maven springboot mysql.
+This is project java maven springboot mysql connect Grog AI.
 Requirements
 
     IDE (VSCode, Eclipse, IntelliJ IDEA, etc.)
     Java JDK 25
     Apache Maven
     MySQL Server 
+    API key of Grog AI
 
 Access the Application
 
