@@ -4,7 +4,8 @@ Requirements
     IDE (VSCode, Eclipse, IntelliJ IDEA, etc.)
     Java JDK 25
     Apache Maven
-    MySQL Server (use mysql-connector to connect with java spring)
+    MySQL Server 
+    Mysql-connector
     API key of Grog AI
 
 Access the Application
